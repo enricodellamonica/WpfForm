@@ -1,0 +1,6 @@
+﻿we assign the char to first string
+until string screen contains +-/*
+after that we start assigning chars to second
+string   
+
+
